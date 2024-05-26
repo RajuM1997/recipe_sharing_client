@@ -1,9 +1,9 @@
 # Recipe Haven
 -https://recipe-haven.netlify.app/
 
-- Why should I use Recipe Haven
+Why should I use Recipe Haven?
 
-- Recipe Haven offers a unique platform where you can not only buy
+Recipe Haven offers a unique platform where you can not only buy
 delicious recipes from our extensive collection but also add your
 own recipes after logging in. Additionally, you can earn money by
 sharing your culinary creations with our community. It's a great
