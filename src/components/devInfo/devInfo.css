@@ -1,0 +1,38 @@
+.my_name {
+  font-size: 22px;
+  color: #fff;
+  font-weight: 600;
+}
+.my_info {
+  color: #fff;
+}
+.my_info h5 {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px 0;
+}
+.my_info span {
+  color: #e7a137;
+}
+.info_title {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 0;
+}
+.my_info p {
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+.personal_info p {
+  padding: 5px 0;
+  font-size: 16px;
+}
+.ul {
+  padding-left: 40px;
+}
+.ul li {
+  padding-bottom: 5px;
+}
+.hr {
+  margin: 20px 0px 10px 0px;
+}

@@ -1,0 +1,16 @@
+.counter_count {
+  font-size: 90px;
+  font-weight: bold;
+  cursor: pointer;
+  color: transparent;
+  -webkit-text-stroke: 1px #e7a137;
+}
+.counter_title {
+  font-size: 28px;
+  font-weight: 600;
+  color: #e7a137;
+}
+.counter_card_main {
+  margin: 0 auto;
+  text-align: center;
+}
